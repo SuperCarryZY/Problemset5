@@ -69,6 +69,11 @@ The final result:
 (0 -2 -1
 infinity 0 1
 infinity infinity 0)
+|   | 0   | 1   | 2   |
+|---|-----|-----|-----|
+| 0 | 0   | -2  | -1  |
+| 1 | ∞   | 0   | 1   |
+| 2 | ∞   | ∞   | 0   |
 
 
 This matrix shows the shortest path lengths between all vertex pairs.
